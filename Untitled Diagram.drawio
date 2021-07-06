@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-06T23:10:04.022Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="2uR9g7zrxFJ2rSAo0F4A" version="14.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-06T23:11:56.262Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="nUUG7StW60doCGn5tjDK" version="14.8.1" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
     <mxGraphModel dx="1014" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -18,7 +18,7 @@
         <mxCell id="7" value="Balança / Entrada NF" style="" parent="2" vertex="1">
           <mxGeometry x="60" y="110" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8" value="CQ" style="" parent="2" vertex="1">
+        <mxCell id="8" value="CQ&#xa;Inspeção" style="" parent="2" vertex="1">
           <mxGeometry x="60" y="220" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0" parent="2" source="7" target="8" edge="1">
@@ -155,7 +155,7 @@
         <mxCell id="lAZd5NCJZbFxyWjqJA0O-48" value="Aferir umidade" style="whiteSpace=wrap;html=1;" vertex="1" parent="4">
           <mxGeometry x="70.5" y="165" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lAZd5NCJZbFxyWjqJA0O-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#FF3333;" edge="1" parent="4" source="lAZd5NCJZbFxyWjqJA0O-50" target="4">
+        <mxCell id="lAZd5NCJZbFxyWjqJA0O-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#FF3333;" edge="1" parent="4" source="lAZd5NCJZbFxyWjqJA0O-50" target="4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lAZd5NCJZbFxyWjqJA0O-50" value="Identificar pacote / Produto final (etiqueta cb)" style="whiteSpace=wrap;html=1;" vertex="1" parent="4">
